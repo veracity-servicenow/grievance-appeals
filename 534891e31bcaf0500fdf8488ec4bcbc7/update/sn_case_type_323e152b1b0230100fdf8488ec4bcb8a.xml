@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_case_type">
+    <sn_case_type action="INSERT_OR_UPDATE">
+        <case_type_table>x_vngl2_gaa_appeal</case_type_table>
+        <category>5</category>
+        <internal_name>x_vngl2_gaa.x_vngl2_gaa_appeal</internal_name>
+        <short_description>Cases to manage claim appeals</short_description>
+        <subtype/>
+        <sys_class_name>sn_case_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-24 13:29:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>323e152b1b0230100fdf8488ec4bcb8a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_vngl2_gaa_appeal</sys_name>
+        <sys_package display_value="Case Playbook for Grievance and Appeals" source="x_vngl2_gaa">534891e31bcaf0500fdf8488ec4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Playbook for Grievance and Appeals">534891e31bcaf0500fdf8488ec4bcbc7</sys_scope>
+        <sys_update_name>sn_case_type_323e152b1b0230100fdf8488ec4bcb8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-24 13:30:17</sys_updated_on>
+    </sn_case_type>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d5b165ef1b0230100fdf8488ec4bcbc2" sys_domain="global" table="x_vngl2_gaa_grievance" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:43:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddb165ef1b0230100fdf8488ec4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_vngl2_gaa_grievance" name="x_vngl2_gaa_grievance" sys_domain="global" view="2a28b0f97393001022139a1ee2f6a7d1">d5b165ef1b0230100fdf8488ec4bcbc2</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_vngl2_gaa_grievance" sys_domain="global" view="2a28b0f97393001022139a1ee2f6a7d1">ddb165ef1b0230100fdf8488ec4bcbc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:43:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:43:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19b165ef1b0230100fdf8488ec4bcbd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_vngl2_gaa_grievance" name="x_vngl2_gaa_grievance" sys_domain="global" view="2a28b0f97393001022139a1ee2f6a7d1">d5b165ef1b0230100fdf8488ec4bcbc2</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_vngl2_gaa_grievance" sys_domain="global" view="2a28b0f97393001022139a1ee2f6a7d1">19b165ef1b0230100fdf8488ec4bcbd3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:43:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:43:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9b165ef1b0230100fdf8488ec4bcbc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_vngl2_gaa_grievance" name="x_vngl2_gaa_grievance" sys_domain="global" view="2a28b0f97393001022139a1ee2f6a7d1">d5b165ef1b0230100fdf8488ec4bcbc2</sys_ui_form>
+            <sys_ui_section caption="Closure information" display_value="Closure information" name="x_vngl2_gaa_grievance" sys_domain="global" view="2a28b0f97393001022139a1ee2f6a7d1">19b165ef1b0230100fdf8488ec4bcbc4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:43:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:43:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15b165ef1b0230100fdf8488ec4bcbd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_vngl2_gaa_grievance" name="x_vngl2_gaa_grievance" sys_domain="global" view="2a28b0f97393001022139a1ee2f6a7d1">d5b165ef1b0230100fdf8488ec4bcbc2</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_vngl2_gaa_grievance" sys_domain="global" view="2a28b0f97393001022139a1ee2f6a7d1">d1b165ef1b0230100fdf8488ec4bcbd0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:43:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_vngl2_gaa_grievance</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:43:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5b165ef1b0230100fdf8488ec4bcbc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_vngl2_gaa_grievance</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Case Playbook for Grievance and Appeals" source="x_vngl2_gaa">534891e31bcaf0500fdf8488ec4bcbc7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Case Playbook for Grievance and Appeals">534891e31bcaf0500fdf8488ec4bcbc7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d5b165ef1b0230100fdf8488ec4bcbc2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:43:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Outsourced Customer Service" name="outsourced_customer_service">2a28b0f97393001022139a1ee2f6a7d1</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

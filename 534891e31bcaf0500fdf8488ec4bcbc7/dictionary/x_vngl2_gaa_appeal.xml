@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_customerservice_case" label="Appeal" max_length="40" name="x_vngl2_gaa_appeal" sizeclass="1" type="collection">
+        <element choice="1" label="Source" max_length="40" name="source" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Member" sequence="100" value="member"/>
+                <element inactive_on_update="false" label="Designated Representative" sequence="200" value="designated_rep"/>
+                <element inactive_on_update="false" label="Provider" sequence="300" value="provider"/>
+                <element inactive_on_update="false" label="Broker" sequence="400" value="broker"/>
+                <element inactive_on_update="false" label="Division of Insurance" sequence="500" value="division_of_insurance"/>
+                <element inactive_on_update="false" label="Other Regulatory" sequence="600" value="other_reg"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes>e75113c0c3302010de10a0f89d40dd0e</includes>
+        <macroponent display_value="List">74e3e6af1b0a30100fdf8488ec4bcbd0</macroponent>
+        <name>listSetPrefState</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    if (event.payload.interaction === "USER_ACTION") {
+        const listDividerPosition = event.payload.dividerPosition;
+        const listPreference = api.state.listRatioPreference;
+        
+        api.setState('listDividerPosition', listDividerPosition);
+
+        api.data.setListPreference.execute({
+            'name': listPreference,
+            'value': listDividerPosition
+        });    
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-24 18:32:17</sys_created_on>
+        <sys_id>01e3e6af1b0a30100fdf8488ec4bcbdb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listSetPrefState</sys_name>
+        <sys_package display_value="Case Playbook for Grievance and Appeals" source="x_vngl2_gaa">534891e31bcaf0500fdf8488ec4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Playbook for Grievance and Appeals">534891e31bcaf0500fdf8488ec4bcbc7</sys_scope>
+        <sys_update_name>sys_ux_client_script_01e3e6af1b0a30100fdf8488ec4bcbdb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-24 18:34:04</sys_updated_on>
+    </sys_ux_client_script>
+</record_update>

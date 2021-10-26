@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="CSM - ESM Agent">0a46d4c9535020102c30ddeeff7b1228</applicability>
+        <order>0</order>
+        <screen display_value="GA List">c5e3e6af1b0a30100fdf8488ec4bcbd4</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-24 18:32:41</sys_created_on>
+        <sys_id>72f3a66b1b0a30100fdf8488ec4bcb10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Case Playbook for Grievance and Appeals" source="x_vngl2_gaa">534891e31bcaf0500fdf8488ec4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Playbook for Grievance and Appeals">534891e31bcaf0500fdf8488ec4bcbc7</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_72f3a66b1b0a30100fdf8488ec4bcb10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-24 18:32:41</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

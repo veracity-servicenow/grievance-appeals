@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Closure Information" section_id="48ad9da71b0230100fdf8488ec4bcb71" sys_domain="global" table="x_vngl2_gaa_appeal" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_by</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:25:17</sys_created_on>
+            <sys_id>48ad9da71b0230100fdf8488ec4bcb72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_vngl2_gaa_appeal" sys_domain="global" view="86531e62e1f1330078502406b6333319">48ad9da71b0230100fdf8488ec4bcb71</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:25:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolution_code</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:25:17</sys_created_on>
+            <sys_id>c8ad9da71b0230100fdf8488ec4bcb72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_vngl2_gaa_appeal" sys_domain="global" view="86531e62e1f1330078502406b6333319">48ad9da71b0230100fdf8488ec4bcb71</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:25:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:25:17</sys_created_on>
+            <sys_id>4cad9da71b0230100fdf8488ec4bcb72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_vngl2_gaa_appeal" sys_domain="global" view="86531e62e1f1330078502406b6333319">48ad9da71b0230100fdf8488ec4bcb71</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:25:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:25:17</sys_created_on>
+            <sys_id>ccad9da71b0230100fdf8488ec4bcb72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_vngl2_gaa_appeal" sys_domain="global" view="86531e62e1f1330078502406b6333319">48ad9da71b0230100fdf8488ec4bcb71</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:25:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:25:17</sys_created_on>
+            <sys_id>40ad9da71b0230100fdf8488ec4bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_vngl2_gaa_appeal" sys_domain="global" view="86531e62e1f1330078502406b6333319">48ad9da71b0230100fdf8488ec4bcb71</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:25:17</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cause</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:25:17</sys_created_on>
+            <sys_id>c0ad9da71b0230100fdf8488ec4bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_vngl2_gaa_appeal" sys_domain="global" view="86531e62e1f1330078502406b6333319">48ad9da71b0230100fdf8488ec4bcb71</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:25:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:25:17</sys_created_on>
+            <sys_id>44ad9da71b0230100fdf8488ec4bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_vngl2_gaa_appeal" sys_domain="global" view="86531e62e1f1330078502406b6333319">48ad9da71b0230100fdf8488ec4bcb71</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:25:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes_to_comments</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:25:17</sys_created_on>
+            <sys_id>c4ad9da71b0230100fdf8488ec4bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_vngl2_gaa_appeal" sys_domain="global" view="86531e62e1f1330078502406b6333319">48ad9da71b0230100fdf8488ec4bcb71</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:25:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Closure Information</caption>
+            <header>false</header>
+            <name>x_vngl2_gaa_appeal</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:25:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48ad9da71b0230100fdf8488ec4bcb71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_vngl2_gaa_appeal</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Case Playbook for Grievance and Appeals" source="x_vngl2_gaa">534891e31bcaf0500fdf8488ec4bcbc7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Case Playbook for Grievance and Appeals">534891e31bcaf0500fdf8488ec4bcbc7</sys_scope>
+            <sys_update_name>sys_ui_section_48ad9da71b0230100fdf8488ec4bcb71</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:25:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">86531e62e1f1330078502406b6333319</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_customerservice_case" label="Grievance" max_length="40" name="x_vngl2_gaa_grievance" sizeclass="1" type="collection">
+        <element choice="1" label="Source" max_length="40" name="source" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Member" sequence="0" value="member"/>
+                <element inactive="true" inactive_on_update="true" label="Other Regulatory" sequence="0" value="other_reg"/>
+                <element inactive_on_update="false" label="Designated Representative" sequence="1" value="designated_rep"/>
+                <element inactive_on_update="false" label="Provider" sequence="2" value="provider"/>
+                <element inactive_on_update="false" label="Broker" sequence="3" value="broker"/>
+                <element inactive_on_update="false" label="Division of Insurance" sequence="4" value="division_of_insurance"/>
+            </choice>
+        </element>
+    </element>
+</database>

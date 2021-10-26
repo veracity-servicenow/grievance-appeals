@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="CSM/FSM Configurable Workspace App Config">f224e5a3530210102c30ddeeff7b128d</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="List">2c08111d0fc21010036a83fa68767ef6</macroponent>
+        <macroponent_config/>
+        <name>GaA List</name>
+        <order>100</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="List">6094a9a3530210102c30ddeeff7b1222</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-24 18:23:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>73c1a66b1b0a30100fdf8488ec4bcb46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GaA List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Case Playbook for Grievance and Appeals" source="x_vngl2_gaa">534891e31bcaf0500fdf8488ec4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Playbook for Grievance and Appeals">534891e31bcaf0500fdf8488ec4bcbc7</sys_scope>
+        <sys_update_name>sys_ux_screen_73c1a66b1b0a30100fdf8488ec4bcb46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-24 18:23:11</sys_updated_on>
+    </sys_ux_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Case Playbook for Grievance and Appeals">534891e31bcaf0500fdf8488ec4bcbc7</application>
+        <file_path/>
+        <instance_id>55e1f151db6af3443050ac44d49619fa</instance_id>
+        <instance_name>veracityconsultinggroupllcdemo10</instance_name>
+        <name>sys_ux_screen_73c1a66b1b0a30100fdf8488ec4bcb46</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="CSM/FSM Configurable Workspace App Config">f224e5a3530210102c30ddeeff7b128d</app_config><description/><event_mappings/><macroponent display_value="List">2c08111d0fc21010036a83fa68767ef6</macroponent><macroponent_config/><name>GaA List</name><order>100</order><parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><screen_condition/><screen_type display_value="List">6094a9a3530210102c30ddeeff7b1222</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-24 18:23:11</sys_created_on><sys_domain>global</sys_domain><sys_id>73c1a66b1b0a30100fdf8488ec4bcb46</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GaA List</sys_name><sys_overrides/><sys_package display_value="Case Playbook for Grievance and Appeals" source="x_vngl2_gaa">534891e31bcaf0500fdf8488ec4bcbc7</sys_package><sys_policy/><sys_scope display_value="Case Playbook for Grievance and Appeals">534891e31bcaf0500fdf8488ec4bcbc7</sys_scope><sys_update_name>sys_ux_screen_73c1a66b1b0a30100fdf8488ec4bcb46</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-24 18:23:11</sys_updated_on></sys_ux_screen></record_update>]]></payload>
+        <payload_hash>1113664778</payload_hash>
+        <record_name>GaA List</record_name>
+        <reverted_from/>
+        <source>1b4891e31bcaf0500fdf8488ec4bcbc9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-24 18:23:11</sys_created_on>
+        <sys_id>f7c1e6ab1b0a30100fdf8488ec4bcb4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b7966e6280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-24 18:23:11</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>ffc1e6abe00a3010bd765a32958ac149</update_guid>
+        <update_guid_history>ffc1e6abe00a3010bd765a32958ac149:1113664778</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-24 18:31:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>020da6e02617423087897972690d9040</sys_id>
+        <sys_metadata>73c1a66b1b0a30100fdf8488ec4bcb46</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GaA List</sys_name>
+        <sys_package display_value="Case Playbook for Grievance and Appeals" source="x_vngl2_gaa">534891e31bcaf0500fdf8488ec4bcbc7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Case Playbook for Grievance and Appeals">534891e31bcaf0500fdf8488ec4bcbc7</sys_scope>
+        <sys_scope_delete display_value="">109b061a73d94b488513eb5ea90ef640</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_73c1a66b1b0a30100fdf8488ec4bcb46</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_73c1a66b1b0a30100fdf8488ec4bcb46">f7c1e6ab1b0a30100fdf8488ec4bcb4a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-24 18:31:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

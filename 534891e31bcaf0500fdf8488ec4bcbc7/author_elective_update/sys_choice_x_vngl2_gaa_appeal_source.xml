@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="source" table="x_vngl2_gaa_appeal" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>source</element>
+            <name>x_vngl2_gaa_appeal</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:11:00</sys_created_on>
+            <sys_id>365ad1231bce7050192b0e9cdc4bcb85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>source</sys_name>
+            <sys_package display_value="Case Playbook for Grievance and Appeals" source="x_vngl2_gaa">534891e31bcaf0500fdf8488ec4bcbc7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Case Playbook for Grievance and Appeals">534891e31bcaf0500fdf8488ec4bcbc7</sys_scope>
+            <sys_update_name>sys_choice_x_vngl2_gaa_appeal_source</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:11:00</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Member</label>
+            <language>en</language>
+            <name>x_vngl2_gaa_appeal</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:10:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba5ad1231bce7050192b0e9cdc4bcb84</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:12:21</sys_updated_on>
+            <value>member</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Designated Representative</label>
+            <language>en</language>
+            <name>x_vngl2_gaa_appeal</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:12:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>635a91231bce7050192b0e9cdc4bcb84</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:12:46</sys_updated_on>
+            <value>designated_rep</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Provider</label>
+            <language>en</language>
+            <name>x_vngl2_gaa_appeal</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:12:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81ba51631bce7050192b0e9cdc4bcb69</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:12:55</sys_updated_on>
+            <value>provider</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Broker</label>
+            <language>en</language>
+            <name>x_vngl2_gaa_appeal</name>
+            <sequence>400</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:13:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bdca95631bce7050192b0e9cdc4bcbad</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:13:05</sys_updated_on>
+            <value>broker</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Division of Insurance</label>
+            <language>en</language>
+            <name>x_vngl2_gaa_appeal</name>
+            <sequence>500</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:13:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40da51631bce7050192b0e9cdc4bcb6b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:13:49</sys_updated_on>
+            <value>division_of_insurance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other Regulatory</label>
+            <language>en</language>
+            <name>x_vngl2_gaa_appeal</name>
+            <sequence>600</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-24 13:14:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bfea95631bce7050192b0e9cdc4bcbf8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-24 13:14:12</sys_updated_on>
+            <value>other_reg</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
